@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DxManager">
+</Property><Property Name="Solution File" Value="C:\Users\NiR\Documents\Visual Studio 2010\Projects\DxManager\DxManager.sln">
+</Property><Property Name="User Options File" Value="C:\Users\NiR\Documents\Visual Studio 2010\Projects\DxManager\DxManager.suo">
+</Property><Property Name="Date" Value="יום שני 22 אוגוסט 2011">
+</Property><Property Name="Time" Value="22:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DxManager.sln" Description="File successfully backed up as C:\Users\NiR\Documents\Visual Studio 2010\Projects\DxManager\DxManager.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="DxManager.suo" Description="File successfully backed up as C:\Users\NiR\Documents\Visual Studio 2010\Projects\DxManager\DxManager.suo.old">
+</Event><Event ErrorLevel="0" Project="DxManager" Source="DxManager.vcproj" Description="Converting project file 'C:\Users\NiR\Documents\Visual Studio 2010\Projects\DxManager\DxManager.vcproj'.">
+</Event><Event ErrorLevel="1" Project="DxManager" Source="DxManager.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="DxManager" Source="DxManager.vcproj" Description="Done converting to new project file 'C:\Users\NiR\Documents\Visual Studio 2010\Projects\DxManager\DxManager.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="DxManager" Source="DxManager.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DxManager.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DxManager.sln" Description="Converted">
+</Event></UpgradeLog>

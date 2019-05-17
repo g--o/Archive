@@ -1,0 +1,46 @@
+﻿  dxInput.cpp
+  d:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  dxKeyboard.cpp
+  d:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  dxMouse.cpp
+  d:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  d:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\nir\documents\visual studio 2017\projects\dxmanager\dxmedia.h(52): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\object.h(75): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\sprites.h(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\sprites.h(173): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\sprites.h(174): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\sprites.h(179): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\sprites.h(180): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\sprites.h(188): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\nir\documents\visual studio 2017\projects\dxmanager\emitter.h(154): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\emitter.h(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\emitter.h(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\emitter.h(232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\particlemanager.h(126): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\particlemanager.h(156): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\dxcamera.h(34): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\nir\documents\visual studio 2017\projects\dxmanager\scene.h(50): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\scene.h(65): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\scene.h(71): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\scene.h(83): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\scene.h(89): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\scene.h(104): warning C4316: 'dxCamera': object allocated on the heap may not be aligned 16
+d:\nir\documents\visual studio 2017\projects\dxmanager\dxmanager.h(268): warning C4018: '<': signed/unsigned mismatch
+d:\nir\documents\visual studio 2017\projects\dxmanager\dxmanager.h(279): warning C4018: '<': signed/unsigned mismatch
+XAnimator.lib(XAnimator.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in main.obj
+XAnimator.lib(GfxModelAnim.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in main.obj
+XAnimator.lib(Utility.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in main.obj
+XAnimator.lib(MeshManager.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in main.obj
+XAnimator.lib(XFileManualSaving.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in main.obj
+XAnimator.lib(MeshHierarchy.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in main.obj
+XAnimator.lib(XFileManualSaving.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+XAnimator.lib(MeshHierarchy.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+XAnimator.lib(XAnimator.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+XAnimator.lib(GfxModelAnim.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+XAnimator.lib(Utility.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+XAnimator.lib(MeshManager.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+XAnimator.lib(GfxModelAnim.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static float __cdecl std::numeric_limits<float>::min(void)" (__imp_?min@?$numeric_limits@M@std@@SAMXZ)
+XAnimator.lib(GfxModelAnim.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static float __cdecl std::numeric_limits<float>::max(void)" (__imp_?max@?$numeric_limits@M@std@@SAMXZ)
+D:\NiR\Documents\Visual Studio 2017\Projects\DxManager\Release\DxManager.exe : fatal error LNK1120: 3 unresolved externals
